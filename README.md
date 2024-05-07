@@ -1,6 +1,6 @@
 docker run -ti <>   //lancer une terminale docker
 
-docker build -t <nom projet> . //création conateneur
+docker build -t <nom projet> . //création conteneur
 
 docker exec -ti <> /bin/bash //execute terminal 
 
